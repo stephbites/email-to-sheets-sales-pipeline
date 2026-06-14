@@ -1,4 +1,4 @@
-# 📧➡️📊 Email-to-Sheets Sales Pipeline
+ Email-to-Sheets Sales Pipeline
 
 A **serverless Google Apps Script** pipeline that turns a daily HTML sales-report
 email into structured data: it parses the email, stores an append-only history,
